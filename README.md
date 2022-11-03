@@ -1,3 +1,7 @@
+# Metamask Encryption
+
+Encrypts and decrypts a message using a metamask signer.
+
 The functions in this repo were written based on this blog post: https://betterprogramming.pub/exchanging-encrypted-data-on-blockchain-using-metamask-a2e65a9a896c
 
 # Getting Started with Create React App
